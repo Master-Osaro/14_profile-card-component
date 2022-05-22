@@ -22,7 +22,7 @@
 
 ### Links
 
-- Live Site URL: [Live Demo](https://pricing-component-o.netlify.app)
+- Live Site URL: [Live Demo](https://profile-card-component-o.netlify.app/)
 
 ## My process
 
